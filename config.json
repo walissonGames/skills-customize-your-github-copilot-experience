@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "javascript-command-parser",
+      "title": "Building a JavaScript Command Parser",
+      "description": "Parse command-style input strings into structured JavaScript objects.",
+      "path": "assignments/javascript-command-parser",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
